@@ -1,0 +1,6 @@
+flask
+flask-jwt-extended
+pymongo
+pandas
+scikit-learn
+requests
